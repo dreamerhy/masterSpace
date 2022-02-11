@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+/masterspace-base/src/test/
+/masterspace-common/src/test/
+/masterspace-system/src/test/
