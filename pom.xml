@@ -24,6 +24,7 @@
     <modules>
         <module>masterspace-system</module>
         <module>masterspace-common</module>
+        <module>masterspace-base</module>
     </modules>
 
     <dependencies>
