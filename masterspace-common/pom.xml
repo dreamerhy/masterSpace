@@ -6,7 +6,6 @@
         <groupId>com.yb.masterspace</groupId>
         <artifactId>masterspace</artifactId>
         <version>0.0.1-SNAPSHOT</version>
-        <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <artifactId>masterspace-common</artifactId>
     <version>0.0.1-SNAPSHOT</version>
